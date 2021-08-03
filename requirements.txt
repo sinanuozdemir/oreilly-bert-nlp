@@ -3,3 +3,4 @@ transformers==4.6.1
 seaborn==0.11.1
 pandas==1.2.4
 bertviz==1.1.0
+datasets==1.11.0
