@@ -8,9 +8,9 @@ This training will focus on how BERT is used for a wide variety of NLP tasks inc
 
 BERT is one of the most relevant NLP architectures today and it is closely related to other important NLP deep learning models like GPT-3. Both of these models are derived from the newly invented transformer architecture and represent an inflection point in how machines process language and context.
 
-Notebook 1: [Introduction to BERT](Introduction to BERT.ipynb)
+Notebook 1: [Introduction to BERT](./Introduction to BERT.ipynb)
 
-Notebook 2: [Pre-training and fine-tuning BERT](Fine-tuning BERT.ipynb)
+Notebook 2: [Pre-training and fine-tuning BERT](./Fine-tuning BERT.ipynb)
 
 ## Instructor
 
