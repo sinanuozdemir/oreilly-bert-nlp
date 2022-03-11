@@ -2,7 +2,7 @@
 
 # BERT Transformer Architecture for NLP
 
-This repository contains code for the [O'Reilly Live Online Training for BERT](https://www.oreilly.com/attend/bert-transformer-architecture-for-nlp/0636920054919/0636920054918)
+This repository contains code for the [O'Reilly Live Online Training for BERT](https://www.oreilly.com/live-events/bert-transformer-architecture-for-nlp/0636920054919/0636920068720/)
 
 This training will focus on how BERT is used for a wide variety of NLP tasks including text classification, question answering, and machine translation. The training will begin with an introduction to necessary concepts including language models and transformers and then build on those concepts to introduce the BERT architecture. We will then move into how BERT is architected specifically as a language model that can be used for multiple natural language processing tasks with hands-on examples of fine-tuning pre-trained BERT models.
 
